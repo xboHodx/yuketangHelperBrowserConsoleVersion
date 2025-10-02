@@ -10,6 +10,7 @@
 
 ### 食用方法
 以 Edge 浏览器作为参考
+请务必使用`scut.yuketang.cn`，而不是其他雨课堂平台，如`changjiang.yuketang.cn`
 1. 登录雨课堂网页版
 2. 点击网址栏旁边的 `锁` 按钮，然后点击 `Cookie和站点数据`![image.png](https://s2.loli.net/2025/09/30/9lRqIvZGyBJDVM8.png)
 3. 一路点下去找到名称为 `sessionid` 的 Cookie，将 `内容` 粘贴到脚本开头的对应位置![image.png](https://s2.loli.net/2025/09/30/sY2Mg3NoXv5p6kO.png)
